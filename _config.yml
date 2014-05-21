@@ -10,7 +10,7 @@ owner:
   name:           ERES
   avatar:         avatar.jpg
   bio:            Emerging Researchers in Exoplanet Science Symposium 
-  email:          you@email.com
+  email:          rcm242@psu.edu
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -25,9 +25,9 @@ owner:
 
 # Background image to be tiled on all pages
 background: 
-
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics: UA-51167175-1
+
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         

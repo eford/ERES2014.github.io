@@ -9,4 +9,4 @@ image:
   creditlink: 
 ---
 
-Registration coming soon. Check this space for updates.
+More details coming soon! Check this space for updates or subscribe to our [RSS feed](http://eres2014.github.io/feed.xml).

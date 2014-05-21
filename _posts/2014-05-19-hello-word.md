@@ -2,7 +2,7 @@
 layout: post
 title: Hello world
 description: First post
-tags: []
+tags: [2015 meeting]
 image:
   feature: banner.jpg
   credit: ESO, Nathaniel C. Sheetz

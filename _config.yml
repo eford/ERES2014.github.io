@@ -35,10 +35,13 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Preregister/Join Email List 
+    url: /email_form
+  - title: RSS
+    url: /feed.xml
   - title: Penn State Astronomy & Astrophysics
     url: http://astro.psu.edu
     external: true
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true

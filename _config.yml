@@ -3,7 +3,7 @@ description:
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              http://localhost:4000
-url:             http://eres2014.github.io
+url:             http://eres-symposium.org
 
 # Owner/author information
 owner:

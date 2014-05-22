@@ -36,7 +36,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Preregister/Join Email List 
-    url: /email_form/
+    url: /emailform/
   - title: RSS
     url: /feed.xml
   - title: Penn State Astronomy & Astrophysics

@@ -9,4 +9,4 @@ image:
   creditlink: 
 ---
 
-Help us plan for next May by taking a moment to [pre-register and sign up on our mailing list](/email_form). 
+Help us plan for next May by taking a moment to [pre-register and sign up on our mailing list](/emailform/). 

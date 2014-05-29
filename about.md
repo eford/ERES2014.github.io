@@ -16,17 +16,30 @@ Organizing Committee
 --------------------
 
 Natasha 	Batalha	Penn State
+
 Jason 	Curtis	Penn State
+
 Taran 	Esplin	Penn State
+
 Eric	Ford 	Penn State
+
 Samuel	Halverson 	Penn State
+
 Rob	Marchwinski	Penn State
+
 Robert 	Morehead	Penn State
+
 Ben 	Nelson	Penn State
+
 Gregory	Romine	Penn State
+
 Arpita 	Roy	Penn State
+
 Joseph	Schmitt 	Yale
+
 Kimberly 	Star	Penn State
+
 Xuesong	Wang	Penn State
+
 Rachel 	Worth	Penn State
 

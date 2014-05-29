@@ -18,66 +18,68 @@ Organizing Committee
 .tg  {border-collapse:collapse;border-spacing:0;border:none;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:3px 9px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:3px 9px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg .tg-s6z2{text-align:center}
+.tg .tg-hgcj{font-weight:bold;text-align:center}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-031e">Name</th>
-    <th class="tg-031e">Affiliation</th>
+    <th class="tg-hgcj">Name</th>
+    <th class="tg-hgcj">Affiliation</th>
   </tr>
   <tr>
     <td class="tg-031e">Natasha Batalha</td>
-    <td class="tg-031e">Penn State</td>
+    <td class="tg-s6z2">Penn State</td>
   </tr>
   <tr>
     <td class="tg-031e">Jason Curtis</td>
-    <td class="tg-031e">Penn State</td>
+    <td class="tg-s6z2">Penn State</td>
   </tr>
   <tr>
     <td class="tg-031e">Taran Esplin</td>
-    <td class="tg-031e">Penn State</td>
+    <td class="tg-s6z2">Penn State</td>
   </tr>
   <tr>
     <td class="tg-031e">Eric Ford</td>
-    <td class="tg-031e">Penn State</td>
+    <td class="tg-s6z2">Penn State</td>
   </tr>
   <tr>
     <td class="tg-031e">Samuel Halverson</td>
-    <td class="tg-031e">Penn State</td>
+    <td class="tg-s6z2">Penn State</td>
   </tr>
   <tr>
     <td class="tg-031e">Rob Marchwinski</td>
-    <td class="tg-031e">Penn State</td>
+    <td class="tg-s6z2">Penn State</td>
   </tr>
   <tr>
     <td class="tg-031e">Robert Morehead</td>
-    <td class="tg-031e">Penn State</td>
+    <td class="tg-s6z2">Penn State</td>
   </tr>
   <tr>
     <td class="tg-031e">Ben Nelson</td>
-    <td class="tg-031e">Penn State</td>
+    <td class="tg-s6z2">Penn State</td>
   </tr>
   <tr>
     <td class="tg-031e">Gregory Romine</td>
-    <td class="tg-031e">Penn State</td>
+    <td class="tg-s6z2">Penn State</td>
   </tr>
   <tr>
     <td class="tg-031e">Arpita Roy</td>
-    <td class="tg-031e">Penn State</td>
+    <td class="tg-s6z2">Penn State</td>
   </tr>
   <tr>
     <td class="tg-031e">Joseph Schmitt</td>
-    <td class="tg-031e">Yale</td>
+    <td class="tg-s6z2">Yale</td>
   </tr>
   <tr>
     <td class="tg-031e">Kimberly Star</td>
-    <td class="tg-031e">Penn State</td>
+    <td class="tg-s6z2">Penn State</td>
   </tr>
   <tr>
     <td class="tg-031e">Xuesong Wang</td>
-    <td class="tg-031e">Penn State</td>
+    <td class="tg-s6z2">Penn State</td>
   </tr>
   <tr>
     <td class="tg-031e">Rachel Worth</td>
-    <td class="tg-031e">Penn State</td>
+    <td class="tg-s6z2">Penn State</td>
   </tr>
 </table>

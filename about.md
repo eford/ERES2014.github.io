@@ -14,52 +14,81 @@ We are pleased to announce the first annual Emerging Researchers in Exoplanet Sc
 
 Organizing Committee
 --------------------
-Name| |Affliation
-|:-|-:|
-Natasha|Batalha|Penn State
-Jason|Curtis|Penn State
-Taran|Esplin|Penn State
-Eric|Ford|Penn State
-Samuel|Halverson|Penn State
-Rob|Marchwinski|Penn State
-Robert|Morehead|Penn State
-Ben|Nelson|Penn State
-Gregory|Romine|Penn State
-Arpita|Roy|Penn State
-Joseph|Schmitt|Yale
-Kimberly|Star|Penn State
-Xuesong|Wang|Penn State
-Rachel|Worth|Penn State
-
-
-
----
-
-Natasha 	Batalha	Penn State
-
-Jason 	Curtis	Penn State
-
-Taran 	Esplin	Penn State
-
-Eric	Ford 	Penn State
-
-Samuel	Halverson 	Penn State
-
-Rob	Marchwinski	Penn State
-
-Robert 	Morehead	Penn State
-
-Ben 	Nelson	Penn State
-
-Gregory	Romine	Penn State
-
-Arpita 	Roy	Penn State
-
-Joseph	Schmitt 	Yale
-
-Kimberly 	Star	Penn State
-
-Xuesong	Wang	Penn State
-
-Rachel 	Worth	Penn State
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border:none;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg .tg-uy9o{font-size:18px}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-uy9o">Natasha</th>
+    <th class="tg-uy9o">Batalha</th>
+    <th class="tg-uy9o">Penn State</th>
+  </tr>
+  <tr>
+    <td class="tg-uy9o">Jason</td>
+    <td class="tg-uy9o">Curtis</td>
+    <td class="tg-uy9o">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-uy9o">Taran</td>
+    <td class="tg-uy9o">Esplin</td>
+    <td class="tg-uy9o">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-uy9o">Eric</td>
+    <td class="tg-uy9o">Ford</td>
+    <td class="tg-uy9o">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-uy9o">Samuel</td>
+    <td class="tg-uy9o">Halverson</td>
+    <td class="tg-uy9o">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-uy9o">Rob</td>
+    <td class="tg-uy9o">Marchwinski</td>
+    <td class="tg-uy9o">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-uy9o">Robert</td>
+    <td class="tg-uy9o">Morehead</td>
+    <td class="tg-uy9o">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-uy9o">Ben</td>
+    <td class="tg-uy9o">Nelson</td>
+    <td class="tg-uy9o">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-uy9o">Gregory</td>
+    <td class="tg-uy9o">Romine</td>
+    <td class="tg-uy9o">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-uy9o">Arpita</td>
+    <td class="tg-uy9o">Roy</td>
+    <td class="tg-uy9o">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-uy9o">Joseph</td>
+    <td class="tg-uy9o">Schmitt</td>
+    <td class="tg-uy9o">Yale</td>
+  </tr>
+  <tr>
+    <td class="tg-uy9o">Kimberly</td>
+    <td class="tg-uy9o">Star</td>
+    <td class="tg-uy9o">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-uy9o">Xuesong</td>
+    <td class="tg-uy9o">Wang</td>
+    <td class="tg-uy9o">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-uy9o">Rachel</td>
+    <td class="tg-uy9o">Worth</td>
+    <td class="tg-uy9o">Penn State</td>
+  </tr>
+</table>

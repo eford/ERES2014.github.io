@@ -14,4 +14,70 @@ We are pleased to announce the first annual Emerging Researchers in Exoplanet Sc
 
 Organizing Committee
 --------------------
-<table style="undefined;table-layout: fixed; width: 354px"><colgroup><col style="width: 83px"><col style="width: 111px"><col style="width: 160px"></colgroup><tr><th colspan="2">Name</th><th>Affiliation&nbsp;</th></tr><tr><td>Natasha</td><td>Batalha</td><td>Penn State</td></tr><tr><td>Jason</td><td>Curtis</td><td>Penn State</td></tr><tr><td>Taran</td><td>Esplin</td><td>Penn State</td></tr><tr><td>Eric</td><td>Ford</td><td>Penn State</td></tr><tr><td>Samuel</td><td>Halverson</td><td>Penn State</td></tr><tr><td>Rob</td><td>Marchwinski</td><td>Penn State</td></tr><tr><td>Robert</td><td>Morehead</td><td>Penn State</td></tr><tr><td>Ben</td><td>Nelson</td><td>Penn State</td></tr><tr><td>Gregory</td><td>Romine</td><td>Penn State</td></tr><tr><td>Arpita</td><td>Roy</td><td>Penn State</td></tr><tr><td>Joseph</td><td>Schmitt</td><td>Yale</td></tr><tr><td>Kimberly</td><td>Star</td><td>Penn State</td></tr><tr><td>Xuesong</td><td>Wang</td><td>Penn State</td></tr><tr><td>Rachel</td><td>Worth</td><td>Penn State</td></tr></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border:none;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:3px 9px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:3px 9px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-031e">Name</th>
+    <th class="tg-031e">Affiliation</th>
+  </tr>
+  <tr>
+    <td class="tg-031e">Natasha Batalha</td>
+    <td class="tg-031e">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Jason Curtis</td>
+    <td class="tg-031e">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Taran Esplin</td>
+    <td class="tg-031e">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Eric Ford</td>
+    <td class="tg-031e">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Samuel Halverson</td>
+    <td class="tg-031e">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Rob Marchwinski</td>
+    <td class="tg-031e">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Robert Morehead</td>
+    <td class="tg-031e">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Ben Nelson</td>
+    <td class="tg-031e">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Gregory Romine</td>
+    <td class="tg-031e">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Arpita Roy</td>
+    <td class="tg-031e">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Joseph Schmitt</td>
+    <td class="tg-031e">Yale</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Kimberly Star</td>
+    <td class="tg-031e">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Xuesong Wang</td>
+    <td class="tg-031e">Penn State</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Rachel Worth</td>
+    <td class="tg-031e">Penn State</td>
+  </tr>
+</table>

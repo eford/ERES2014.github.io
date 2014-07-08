@@ -15,6 +15,10 @@ We are pleased to announce the first annual Emerging Researchers in Exoplanet Sc
 Organizing Committee
 ====================
 
+Cornell
+-------
+*Lisa Kaltenegger, Ramses Ramirez*
+
 Penn State
 ----------
 *Natasha Batalha, Jason Curtis, Taran Esplin, Eric Ford, Samuel Halverson, Rob Marchwinski, Robert Morehead, Ben Nelson, Gregory Romine, Arpita Roy, Kimberly Star, Xuesong Wang, and Rachel Worth*
@@ -22,3 +26,5 @@ Penn State
 Yale
 ----
 *Joseph Schmitt*
+
+
